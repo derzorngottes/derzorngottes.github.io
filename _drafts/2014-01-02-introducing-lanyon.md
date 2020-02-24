@@ -3,6 +3,43 @@ layout: post
 title: Example content
 ---
 
+### Your Value Add
+
+
+
+Applying for your first developer role can make you feel like you're stuck in an unbalanced equation. When I first started applying for jobs out of bootcamp I thought "These companies can hire anyone they want. Why would they choose me over someone with a CS degree or previous experience?" It can be hard to negotiate when you feel like you're coming from a position of powerlessness.
+
+Now that I have a few years of experience under my belt I know that I actually had a lot to offer, and so do you:
+
+* My bootcamp taught me hands-on experience writing code for live websites. As I later found out in my first job, some interns and junior devs with CS degrees have a mostly theoretical education and it takes them time and close mentorship to be able to start shipping code. My experience jumping into new technologies and building things independently meant I could dive in and start making pull requests in my first week on the job.
+* I was applying to entry level developer jobs but I had several years of work experience in a different field. This meant I could operate in a very different capacity than a 21-year-old fresh out of school. I was able to take on more responsibility, had better communication, and a deeper sense of user empathy that added a lot of value to my work.
+* By switching career tracks and completing bootcamp with a portfolio of projects I demonstrated that I could learn quickly and pick up new technologies with limited ramp-up.
+
+
+### Mindset
+
+When I started applying for jobs out of bootcamp it was really hard to feel confident in myself. I knew I would be competing against people with 4-year degrees from top schools who had completed internships with glowing references. I wasn't completely down on myself - I knew I had a lot to offer - but I didn't feel confiden that potential employers would be able to see it or to believe in me enough to give me a chance.
+
+I think we need a new term alongside imposter syndrome to describe the feeling that although you know you are capable and worthy, you don't think others are capable of recognizing it. I sometimes describe this as: I don't think I'm an imposter, but I certainly believe other people think I am.
+
+Now that I've been in the industry a few years and have some professional success I know how damaging those thoughts are, and I know that me and people like me have a lot to offer. So even if this is your first job and you don't feel you have a lot to offer, here are some things to remember:
+
+* Most tech companies are building products for real people. However, the makeup of employees in most tech companies does not reflect their userbase, and this is causing them to miss some key opportunities to improve their products and services. Your unique background and perspective can help them identify these opportunities.
+* Did you have a career in another industry before learning to code? The skills you developed there will translate into your developer role and make you more effective and well rounded, regardless of how different they may seem.
+* Did you know that some bigger tech companies pay their recruiters an extra bonus if they end up hiring a candidate from an underrepresented group?
+
+### Value Add
+
+Although you may not have prior experience and references, you do have opportunities to showcase your abilities. These can include:
+
+* A Github profile that showcases 3 or more repositories that feature well-written, clean code for the type of jobs you are applying to. (e.g. React for web developers, C#/.Net for services)
+* A personal website with links to hosted projects (for web) or project write-ups with screenshots/videos (for game dev, desktop apps, mobile apps, etc.)
+* A blog featuring a few technical posts. This does not have to be a big time investment - just a few short paragraphs describing your projects is good enough
+
+I don't believe in spending weeks & weeks preparing for job applications or interviews, so if you don't have any of the above I recommend spending the minimal amount of time to get them in "good enough" shape, starting your applications, and then returning to polish them up as you have time.
+
+
+
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.

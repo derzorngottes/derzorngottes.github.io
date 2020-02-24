@@ -41,12 +41,12 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Open Sans", Helvetica, Arial, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-family: "Bitter", Georgia, "Times New Roman", serif;
+  font-weight: 200;
   color: #313131;
   letter-spacing: -.025rem;
 }
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 48rem;
   }
 }
 
@@ -102,10 +102,10 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #e4a199;
 }
 .masthead-title a {
-  color: #505050;
+  color: #dbbebb;
 }
 .masthead-title small {
   font-size: 75%;
@@ -148,10 +148,10 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  color: rgba(255,255,255,.6);
-  background-color: #202020;
+  color: rgba(255,255,255,255);
+  background-color: #dbbebb;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -328,7 +328,8 @@ a.sidebar-nav-item:focus {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  font-size: 75%;
+  color: #dbbebb;
 }
 
 /* Related posts */
