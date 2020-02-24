@@ -150,21 +150,16 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  color: rgba(255,255,255,255);
+  color: rgba(0,0,0,0.75);
   background-color: #dbbebb;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
-}
-@media (min-width: 30em) {
-  .sidebar {
-    font-size: .75rem; /* 14px */
-  }
 }
 
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #fff;
+  color: rgba(0,0,0,0.75);
 }
 .sidebar-item {
   padding: 1rem;
