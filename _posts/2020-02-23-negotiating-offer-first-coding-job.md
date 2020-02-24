@@ -3,7 +3,7 @@ layout: post
 title: Negotiating the first job offer after coding bootcamp
 ---
 
-![Congrats on your offer - now comes the fun part!](assets/hiring_meeting.jpg)
+![Congrats on your offer - now comes the fun part!](/assets/hiring_meeting.jpg)
 <sub><sup>*Photo by Christina @ wocintechchat.com on Unsplash*</sup></sub>
 
 Negotiating an offer is one of the biggest hurdles for many junior developers, and especially for bootcamp grads. It's hard to figure out how to sell yourself for any entry level job but things like stereotype threat, imposter syndrome, and a lack of prior references make this a unique challenge for coders from underrepresented backgrounds.
@@ -26,7 +26,7 @@ If you are in the process of applying for jobs there are a few key rules to keep
 * If you are asked for an expected salary range do not give it - you can say "I'd rather not at this stage" or "I'd prefer to start with an offer and go from there."
 * If you receive a verbal offer resist the urge to accept on the spot. A great way to do this is to say "Thank you! I really appreciate it and I'm so excited to be at this stage. I'd just like to take the opportunity to discuss this with my family, would you mind sending me the offer details over email? And can we set up a time to talk in a couple of days?" (You don't have to say family - you can use any generic excuse)
 
-![Take the time to research and determine your ideal offer](assets/coffee_research.jpg)
+![Take the time to research and determine your ideal offer](/assets/coffee_research.jpg)
 <sub><sup>*Photo by Sincerely Media on Unsplash*</sup></sub>
 
 ### Researching the market
